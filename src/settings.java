@@ -1,4 +1,3 @@
-package es.upv.etsinf.ipc;
 import com.trolltech.qt.core.QLocale;
 import com.trolltech.qt.gui.*;
 

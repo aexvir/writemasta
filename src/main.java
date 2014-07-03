@@ -1,4 +1,3 @@
-package es.upv.etsinf.ipc;
 import com.google.common.base.Charsets;
 import com.google.common.io.Files;
 import com.trolltech.qt.QThread;
